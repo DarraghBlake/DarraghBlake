@@ -2,9 +2,7 @@
 A self-thought Backend Engineer currently working ﹫ [TrueLayer](https://truelayer.com/), building the core-banking technology behind our Instant Payments processing product, [PayDirect](https://truelayer.com/paydirect). Born in Dublin 🇮🇪 and moved to London 🇬🇧 back in 2018.
 
 ### Current Focus 🧘
-```
-todo;
-```
+- [ ] Currently building my blog for Rust 🦀 at [darraghblake.com](http://darraghblake.com)
 
 ### Rust Open Source Work 🦀
 ```
